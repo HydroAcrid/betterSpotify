@@ -1,2 +1,2 @@
 # betterSpotify
-First real project 
+First spotify project
